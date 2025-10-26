@@ -47,34 +47,34 @@ context default
 
 wholechars abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-._
 
-    keyword whole break color220
-    keyword whole case color220
-    keyword whole clear color220
-    keyword whole continue color220
-    keyword whole declare color220
-    keyword whole done color220
-    keyword whole do color220
-    keyword whole elif color220
-    keyword whole else color220
-    keyword whole esac color220
-    keyword whole exit color220
-    keyword whole export color220
-    keyword whole fi color220
-    keyword whole for color220
-    keyword whole getopts color220
-    keyword whole if color220
-    keyword whole in color220
-    keyword whole read color220
-    keyword whole return color220
-    keyword whole select color220
-    keyword whole shift color220
-    keyword whole source color220
-    keyword whole then color220
-    keyword whole trap color220
-    keyword whole until color220
-    keyword whole unset color220
-    keyword whole wait color220
-    keyword whole while color220
+    keyword whole break color22
+    keyword whole case color22
+    keyword whole clear color22
+    keyword whole continue color22
+    keyword whole declare color22
+    keyword whole done color22
+    keyword whole do color22
+    keyword whole elif color22
+    keyword whole else color22
+    keyword whole esac color22
+    keyword whole exit color22
+    keyword whole export color22
+    keyword whole fi color22
+    keyword whole for color22
+    keyword whole getopts color22
+    keyword whole if color22
+    keyword whole in color22
+    keyword whole read color22
+    keyword whole return color22
+    keyword whole select color22
+    keyword whole shift color22
+    keyword whole source color22
+    keyword whole then color22
+    keyword whole trap color22
+    keyword whole until color22
+    keyword whole unset color22
+    keyword whole wait color22
+    keyword whole while color22
 
     keyword whole accept color220
     keyword whole accessdb color220
@@ -1154,34 +1154,34 @@ context exclusive ` ` lightgray black
 
 wholechars abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-._
 
-    keyword whole break color220
-    keyword whole case color220
-    keyword whole clear color220
-    keyword whole continue color220
-    keyword whole declare color220
-    keyword whole done color220
-    keyword whole do color220
-    keyword whole elif color220
-    keyword whole else color220
-    keyword whole esac color220
-    keyword whole exit color220
-    keyword whole export color220
-    keyword whole fi color220
-    keyword whole for color220
-    keyword whole getopts color220
-    keyword whole if color220
-    keyword whole in color220
-    keyword whole read color220
-    keyword whole return color220
-    keyword whole select color220
-    keyword whole shift color220
-    keyword whole source color220
-    keyword whole then color220
-    keyword whole trap color220
-    keyword whole until color220
-    keyword whole unset color220
-    keyword whole wait color220
-    keyword whole while color220
+    keyword whole break color22
+    keyword whole case color22
+    keyword whole clear color22
+    keyword whole continue color22
+    keyword whole declare color22
+    keyword whole done color22
+    keyword whole do color22
+    keyword whole elif color22
+    keyword whole else color22
+    keyword whole esac color22
+    keyword whole exit color22
+    keyword whole export color22
+    keyword whole fi color22
+    keyword whole for color22
+    keyword whole getopts color22
+    keyword whole if color22
+    keyword whole in color22
+    keyword whole read color22
+    keyword whole return color22
+    keyword whole select color22
+    keyword whole shift color22
+    keyword whole source color22
+    keyword whole then color22
+    keyword whole trap color22
+    keyword whole until color22
+    keyword whole unset color22
+    keyword whole wait color22
+    keyword whole while color22
 
     keyword whole accept color220
     keyword whole accessdb color220
