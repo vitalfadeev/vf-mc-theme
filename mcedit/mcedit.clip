@@ -1,3 +1,0 @@
-SIZE=$1
-QUAL=$2 # 18..28  18-best 28-small
-NAME=$3
