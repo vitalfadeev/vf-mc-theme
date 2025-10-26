@@ -1,0 +1,240 @@
+[input-def]
+0=*
+
+[inpmc.edit.save-block]
+0=/home/vf/.local/share/mc/mcedit/mcedit.clip
+
+[inpmc.edit.insert-file]
+0=/home/vf/.local/share/mc/mcedit/mcedit.clip
+
+[save-as]
+0=top_panel.e
+1=
+2=megre-2-audio.sh
+
+[inpmc.fm.mkdir]
+0=mem
+1=deps
+2=e
+3=backend
+4=inp
+5=vid
+6=world
+7=.mc
+
+[:select_cmd: Unselect ]
+0=
+
+[mc.shared.search]
+0=shell
+1=bash
+
+[cmdline]
+0=echo -e "1" | ./menu 
+1=echo -e "2" | ./menu 
+2=echo -e "1\\\\n"2 | ./menu
+3=echo -e "1\\\\n2" | ./menu
+4=dub examples/database.d detect README.md source .gitignore lib/libmime.a /bin/sh /var/run/acpid.socket dub.json /dev/sda
+5=cd /dev
+6=file /dev/input/event0 
+7=cd /etc
+8=cd /usr/bin
+9=cd 
+10=cd sr
+11=d vf3
+12=cmake
+13=sudo apt install cmak
+14=sudo apt install cmake
+15=cmake .
+16=[Desktop Entry]
+17=p
+18=/home/vf/bin/LDC/bin/dub run
+19=/home/vf/bin/LDC/bin/dub run --build=release
+20=make clean
+21=grep passw chrome-net-export-log.json 
+22=cd vf6
+23=cd /tmp
+24=git clone https://github.com/AuburnSounds/intel-intrinsics.git
+25=d
+26=cd /usr/
+27=ldd libwayland-client.so 
+28=grep type= example.xml 
+29=cd test
+30=dub build
+31=htop
+32=./wayland-scanner-d gtk-shell.xml > gtk-shell.d
+33=./wayland-scanner-d gtk-shell.xml
+34=./wayland-scanner-d xdg-shell.xml 
+35=./wayland-scanner-d xdg-shell.xml > xdg-shell.d
+36=./wayland-scanner-d wayland.xml > wayland.d
+37=cd /
+38=echo gtk-shell.xml | tr xml ""
+39=cd /usr/share/wayland-protocols
+40=dub init
+41=dub rub
+42=dub run
+43=subl readme.md 
+44=cd src
+45=cd /usr/share/
+46=cd $VST_PATH
+47=cd VST_PATH
+48=echo VST_PATH
+49=cd /opt
+50=gdu
+51=cd /var/tmp
+52=cd .local
+53=mkdir syntax 
+54=subl d.syntax 
+55=cd
+56=cd .local/mc
+57=cd .local/share/mc
+58=cd /usr/share/mc/
+59=
+
+[Dir Hist New Right Panel]
+0=/usr/lib/x86_64-linux-gnu/gtk-4.0
+1=/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules
+2=/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/printbackends
+3=/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0
+4=/usr/lib/x86_64-linux-gnu/gtk-3.0/modules
+5=/usr/lib/x86_64-linux-gnu/gtk-3.0
+6=/usr/lib/x86_64-linux-gnu
+7=/usr/lib
+8=/usr
+9=/usr/share
+10=/home/vf/src/wayland_test/deps
+11=/home/vf/src/wayland_struct/deps/libinput_d
+12=/home/vf/src/wayland_struct/deps
+13=/home/vf/src/libinput_d
+14=/home/vf/src/wayland-scanner-d/protocol
+15=/home/vf/src/wayland-scanner-d/wayland-protocols
+16=/home/vf/src/wayland-scanner-d
+17=/home/vf/src/wayland_struct/source
+18=/home/vf/src/wayland_struct
+19=/home/vf/src/wayland_test/source
+20=/home/vf/src/wayland_test
+21=/home/vf/src/events
+22=/home/vf/Downloads
+23=/home/vf/.dub/packages
+24=/home/vf/.dub
+25=/home/vf/src/top_panel/.dub/build
+26=/home/vf/src/top_panel/.dub
+27=/home/vf/src/top_panel
+28=/home/vf/src
+29=/home/vf/.config
+30=/home/vf/.lv2
+31=/home/vf/.java
+32=/home/vf/.vst
+33=/home/vf/.vst3
+34=/home/vf/.winff
+35=/home/vf/.vital
+36=/home/vf/.u-he
+37=/home/vf/.config/mc/skins/vf
+38=/home/vf/.local
+39=/home/vf/.local/share
+40=/lib
+41=/bin
+42=/home/vf/bin
+43=/boot
+44=/var/tmp
+45=/var/spool/anacron
+46=/var/spool
+47=/var/lib/AccountsService
+48=/var/lib
+49=/var
+50=/var/cache
+51=/var/cache/PackageKit
+52=/var/cache/PackageKit/downloads
+53=/home/vf/.Fontmatrix/Activated
+54=/home/vf/.Fontmatrix
+55=/home/vf/.Rack2
+56=/home/vf/.local/share/mc
+57=/home/vf/.local/share/mc/syntax
+58=/
+59=/home/vf
+
+[Dir Hist New Left Panel]
+0=/home/vf/src/Templates/wayland/deps/derelict-util
+1=/home/vf/src/Templates/wayland/deps/wayland_struct/source
+2=/home/vf/src/Templates/wayland/deps/wayland_struct/deps/libinput_d/source
+3=/home/vf/src/Templates/wayland/deps/wayland_struct/deps/libinput_d/deps/udev_d
+4=/home/vf/src/Templates/wayland/deps/wayland_struct/deps/libinput_d/deps
+5=/home/vf/src/Templates/wayland/deps/wayland_struct/deps/libinput_d
+6=/home/vf/src/Templates/wayland/deps/wayland_struct/deps
+7=/home/vf/src/Templates/wayland/deps/wayland_struct
+8=/home/vf/src/Templates/wayland/deps
+9=/home/vf/src/wayland_struct
+10=/home/vf/src/wayland_test
+11=/home/vf/src/Templates/wayland/source
+12=/home/vf/src/Templates/wayland
+13=/home/vf/src/Templates
+14=/home/vf/src/beowser
+15=/home/vf/src/browser
+16=/home/vf/src/test/foreach_writeln
+17=/home/vf/src/test/foreach_tpl
+18=/home/vf/src/test/for_writeln/source
+19=/home/vf/src/test/for_writeln
+20=/home/vf/src/test
+21=/home/vf/.local/bin
+22=/home/vf/.config
+23=/usr/share/cdrdao
+24=/usr/share
+25=/home/vf/.local/share/vlc
+26=/opt
+27=/
+28=/home/vf/Downloads/.temp
+29=/home/vf/Downloads/.backups
+30=/home/vf/Downloads/images
+31=/home/vf/Downloads/PsiPog.net _ Psychokinesis the Gnomish Way by Gnome_files
+32=/home/vf/Downloads/js
+33=/home/vf/Downloads/sse
+34=/home/vf/Downloads/v
+35=/home/vf/Downloads
+36=/home/vf/.local/share
+37=/home/vf/.local
+38=/home
+39=/home/vf/src/vf
+40=/home/vf/src/vf/source
+41=/home/vf/src/vf/source/vf
+42=/home/vf/.Fontmatrix/Activated
+43=/home/vf/.Fontmatrix/Samples
+44=/home/vf/.Fontmatrix
+45=/home/vf/.android
+46=/home/vf/.ShotStars
+47=/home/vf/.Rack2/autosave
+48=/home/vf/.Rack2
+49=/home/vf/cert
+50=/home/vf/configs
+51=/home/vf/drum_sklad
+52=/home/vf/Рабочий стол
+53=/home/vf/src/xau
+54=/home/vf/src
+55=/usr/share/mc
+56=/usr/share/mc/syntax
+57=/home/vf/bin/LDC
+58=/home/vf/bin
+59=/home/vf
+
+[input-1]
+0=/home/vf/src/vid/deps/mem
+1=/home/vf/.local/share/nautilus/scripts/megre-2-audio.sh
+2=/home/vf/src/mc
+
+[input-2]
+0=/home/vf/src/mem
+1=/home/vf/bin/megre-2-audio.sh
+2=/home/vf/.local/share/mc
+
+[input2]
+0=/home/vf/src/vid/deps/
+1=/home/vf/src/e/
+2=/home/vf/src/e/source
+3=/home/vf/src/top_panel/source/backend/
+4=package.d
+5=megre audio
+6=..
+7=/home/vf/.mc/
+8=/home/vf/.local/share/mc/syntax/
+9=/home/vf/.local/share/mc/
+10=vf-mc-theme
+11=/home/vf/src/vf-mc-theme/
