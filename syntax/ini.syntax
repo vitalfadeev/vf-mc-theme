@@ -1,0 +1,18 @@
+# DOS / Windows INI files
+
+context default color130
+    keyword = color240
+
+# groups
+context [ ] color220
+
+# comments:
+context # \n color240
+    spellcheck
+
+context ; \n brown
+    spellcheck
+
+context exclusive = \n color215
+
+
